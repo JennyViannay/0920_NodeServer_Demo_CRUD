@@ -3,7 +3,7 @@
 ## Launch Server
 
 - ```npm install```
-- ```npm start```
+- ```npm start``` -> CTRL + C to stop 
 - Server listenning on http://localhost:5000
 - Routes available :
   * '/' => Welcome Server Home
