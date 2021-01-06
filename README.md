@@ -6,12 +6,12 @@
 - ```npm start```
 - Server listenning on http://localhost:5000
 - Routes available :
-  '/' 
-  '/articles/' => METHOD GET -> ALL ARTICLES
-  '/articles/' => METHOD POST -> CREATE ARTICLE
-  '/articles/:id' => METHOD GET -> READ ARTICLE
-  '/articles/:id' => METHOD POST -> UPDATE ARTICLE
-  '/articles/:id' => METHOD DELETE -> DELETE ONE ARTICLE
+  * '/' 
+  * '/articles/' => METHOD GET -> ALL ARTICLES
+  * '/articles/' => METHOD POST -> CREATE ARTICLE
+  * '/articles/:id' => METHOD GET -> READ ARTICLE
+  * '/articles/:id' => METHOD POST -> UPDATE ARTICLE
+  * '/articles/:id' => METHOD DELETE -> DELETE ONE ARTICLE
 ## Access To BDD
 
 - add .env file following exemple in .example-env file 
